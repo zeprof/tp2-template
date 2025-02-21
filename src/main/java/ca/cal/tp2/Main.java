@@ -1,4 +1,4 @@
-package ca.cal.tp1;
+package ca.cal.tp2;
 
 public class Main {
     public static void main(String[] args) {
